@@ -1,1 +1,2 @@
 Sửa tại new_branch
+Sửa ở branch master (tạo conflict)
