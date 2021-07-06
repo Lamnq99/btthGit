@@ -1,0 +1,1 @@
+Sửa ở branch master (tạo conflict)
